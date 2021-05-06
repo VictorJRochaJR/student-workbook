@@ -5,3 +5,5 @@ A Psueo-Class is a special class you can add to selectors to change them in cert
 Specificity is used to give value or weight and override the top to bottom order. It will help the browser decide on which style it should used based on the value of the selector.
 # What problems do you think you could run into if you over-utilized the !important feature?
 I believe if you ever use the feature, you would run into problems  like conflicting style sheets and having the incorrect one used. It could also lead to more lazy and less specific code. You could also run into issues and have a harder time figuring out where your code went wrong.
+
+https://github.com/VictorJRochaJR/CoolSite

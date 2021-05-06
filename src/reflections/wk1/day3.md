@@ -11,3 +11,5 @@ My favorite tip that I found the most beneficial might have been creating spacin
 # How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
  I think a good designed website will also show how much you care about your business or idea of what the site is trying to convey as a whole.
  A good design will also help capture someones attention and keep it without overwhelming them or boring them at the same time.
+ 
+ https://github.com/VictorJRochaJR/site-cloning
