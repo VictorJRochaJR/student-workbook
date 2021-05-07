@@ -6,6 +6,7 @@ My favorite tip that I found the most beneficial might have been creating spacin
   <li>material design guidlines for shadows.</li>
   <li>fontawesome and zondicon for certain icons, or even bootstrap icons</li>
   <li>dribbles color search to give me ideas on colors that go well together</li>
+  </ul>
 
 
 # How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
