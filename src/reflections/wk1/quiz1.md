@@ -3,8 +3,8 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-
-```its used to move into a directory
+its used to move into a directory
+```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
@@ -14,8 +14,8 @@ it is used to make a directoy followed by the name of the directory you'd like t
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
-It us used to make an HTML document and holds everything inside of it.
 ```
+It us used to make an HTML document and holds everything inside of it.
 
 ```
 
@@ -27,7 +27,8 @@ Hyper Text Markup Language
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
-```Cascading Style Sheets
+```
+Cascading Style Sheets
 
 ```
 
@@ -36,11 +37,12 @@ Hyper Text Markup Language
  h1.main-title {
    color : rgba(255, 210, 33, .75);
  }
-     The three CSS components consists of a selector, a propery and a property value
+    
 ```
 <!-- enter you answer in the space below -->
 ```
-
+The three CSS components consists of a selector, a propery and a property value
+```
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
