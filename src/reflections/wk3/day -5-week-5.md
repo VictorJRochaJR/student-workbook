@@ -1,0 +1,1 @@
+As a whole im feeling very unconfident on this material, I feel like I dont understand much of it at all. It also worries me because it makes me feel like i'll just end up faling more behind as the week goes on 
