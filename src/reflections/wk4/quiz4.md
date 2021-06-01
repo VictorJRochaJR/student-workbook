@@ -60,6 +60,6 @@ Helps keep things more orderly and hide functions from other users and processes
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-That there was an erro and no other error was appropriate 
+That there was an error and no other error was appropriate 
 
 ```
