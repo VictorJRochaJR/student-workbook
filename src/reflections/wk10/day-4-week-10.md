@@ -1,0 +1,2 @@
+# 
+Ive been trying to manage my time as well as I can. I used the whole weekend to make as much progress as I could. The biggest thing I've been stuck on and am still stuck on are the private vaults and the bools
